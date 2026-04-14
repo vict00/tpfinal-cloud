@@ -20,6 +20,6 @@ const today = new Date().toLocaleDateString('fr-FR')
 p {
   font-size: 1.5em;
   margin: 0.5em 0;
-  color: red ;
+  color: pink ;
 }
 </style>
