@@ -13,3 +13,12 @@ const today = new Date().toLocaleDateString('fr-FR')
   </header>
   <HelloWorld />
 </template>
+
+
+<style>
+
+p {
+  font-size: 1.5em;
+  margin: 0.5em 0;
+  color: aqua ;
+}
